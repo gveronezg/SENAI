@@ -57,3 +57,22 @@ Operadores Relacionais
     	< menor
 	<= menor ou igual
  
+Operadores Lógicos
+	e = and
+ 	ou = or
+  	não = not
+
+Tabela Verdade
+	AND
+ 		T and T = T
+   		T and F = F
+     		F and T = F
+       		F and F = F
+	OR
+ 		T or T = T
+   		T or F = T
+     		F or T = T
+       		F or F = F
+   	NOT
+ 		not T = F
+   		not F = T
