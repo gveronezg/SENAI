@@ -31,10 +31,10 @@ Algoritmo para realizar a troca de um pneu furado:
 WI-FI-EDUC
 ac6ce0ss4@educ
 
-variavel = valor que pode ser modificado ao longo do algoritmo
-constante = valor que é criado e fixado duranto todo o algoritmo
+Variavel = valor que pode ser modificado ao longo do algoritmo
+Constante = valor que é criado e fixado duranto todo o algoritmo
 
-tipos de dados
+Tipos de dados
 	caracter = texto entre aspas
  	inteiro = negativos e positivos
   	real = numero que tem pontuação
@@ -43,11 +43,12 @@ tipos de dados
 print() = printa dados
 input() = recebe dados
 
-+ adição
-- subtração
-* multiplicação
-/ divisão
-** exponenciação
+Operadores Matemáticos
+	+ adição
+	- subtração
+	* multiplicação
+	/ divisão
+	** exponenciação
 
 Operadores Relacionais
 	== igual
