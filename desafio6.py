@@ -2,7 +2,7 @@
 Quadrado - Escrever um programa que mostre a seguinte figura:
 """
 
-x1 = "XXXXXX"
-x2 = "X    X"
+x = "XXXXXX"
+y = "X    X"
 
-print(f"{x1}\n{x2}\n{x2}\n{x2}\n{x1}")
+print(f"{x}\n{y}\n{y}\n{y}\n{x}")
