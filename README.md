@@ -1,6 +1,6 @@
 # SENAI
 
-1º Aula - 22/07/2024
+1º Aula - 22/07/2024 ########################################################################################################################
 
 Algoritmo
 	Sequência finita de passos que levam à execução de uma tarefa.
@@ -26,7 +26,7 @@ Algoritmo para realizar a troca de um pneu furado:
 	7-Guardar a roda furada.
 	8-Guardar o macaco e a chave de roda.
 
-2º Aula - 23/07/2024
+2º Aula - 23/07/2024 ########################################################################################################################
 
 variavel = valor que pode ser modificado ao longo do algoritmo
 constante = valor que é criado e fixado duranto todo o algoritmo
@@ -37,5 +37,3 @@ tipos de dados
   	real = numero que tem pontuação
    	lógico = verdadeiro e falso
 
-
- 
