@@ -25,5 +25,3 @@ Algoritmo para realizar a troca de um pneu furado:
 	6-Abaixar o carro.
 	7-Guardar a roda furada.
 	8-Guardar o macaco e a chave de roda.
-
-.
