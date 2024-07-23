@@ -28,6 +28,9 @@ Algoritmo para realizar a troca de um pneu furado:
 
 2º Aula - 23/07/2024 ########################################################################################################################
 
+WI-FI-EDUC
+ac6ce0ss4@educ
+
 variavel = valor que pode ser modificado ao longo do algoritmo
 constante = valor que é criado e fixado duranto todo o algoritmo
 
@@ -37,3 +40,20 @@ tipos de dados
   	real = numero que tem pontuação
    	lógico = verdadeiro e falso
 
+print() = printa dados
+input() = recebe dados
+
++ adição
+- subtração
+* multiplicação
+/ divisão
+** exponenciação
+
+Operadores Relacionais
+	== igual
+ 	!= diferente
+  	> maior
+   	>= maior ou igual
+    	< menor
+	<= menor ou igual
+ 
