@@ -1,0 +1,1 @@
+print("O número é: 10")
