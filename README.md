@@ -25,3 +25,17 @@ Algoritmo para realizar a troca de um pneu furado:
 	6-Abaixar o carro.
 	7-Guardar a roda furada.
 	8-Guardar o macaco e a chave de roda.
+
+2º Aula - 23/07/2024
+
+variavel = valor que pode ser modificado ao longo do algoritmo
+constante = valor que é criado e fixado duranto todo o algoritmo
+
+tipos de dados
+	caracter = texto entre aspas
+ 	inteiro = negativos e positivos
+  	real = numero que tem pontuação
+   	lógico = verdadeiro e falso
+
+
+ 
