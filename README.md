@@ -31,6 +31,8 @@ Algoritmo para realizar a troca de um pneu furado:
 WI-FI-EDUC
 ac6ce0ss4@educ
 
+https://www.online-python.com/
+
 Variavel = valor que pode ser modificado ao longo do algoritmo
 Constante = valor que é criado e fixado duranto todo o algoritmo
 
