@@ -79,3 +79,14 @@ Tabela Verdade
    	NOT
  		not T = F
    		not F = T
+
+3º Aula - 24/07/2024 ###########################################################################################################
+
+PYTHON
+	linguagem de alto nivel
+ 	orientada a objetos
+  	tipagem dinânima e forte
+   	fácil aprendizagem
+    	comunidade ativa
+     	muitas bibliotecas/recursos
+      	linguagem interpretada
