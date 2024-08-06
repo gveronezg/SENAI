@@ -1,1 +1,0 @@
-print('"Hoje é um bom dia!"')
