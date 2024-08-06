@@ -182,12 +182,12 @@ elif imc>=40:
     print("Obesidade mórbida")
 
 # 1. Imprima os números de 1 a 10.
-for n in range(1,10):
+for n in range(1,11):
     print(n)
 
 # 2. Imprima uma mensagem 5 vezes.
-for n in range(1,5):
-    print("uma mensagem")
+for n in range(5):
+    print("for em python 5 vezes")
 
 # 3. Imprima os números de 80 a 1 (em ordem decrescente).
 for n in range(80,0,-1):
