@@ -96,3 +96,15 @@ PYTHON
 Estrutura de Repetição
 	For (para) = determinadas vezes
 	While (enquanto) = infinitas vezes
+
+For {referência} in {sequência}:
+	{bloco de código}
+ 
+for n in range(10000):
+    print(n)
+
+for n in range(5,16):
+    print(n)
+    
+for n in range(15,6,-1):
+    print(n)
