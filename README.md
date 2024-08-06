@@ -90,3 +90,9 @@ PYTHON
     	comunidade ativa
      	muitas bibliotecas/recursos
       	linguagem interpretada
+
+7º Aula - 05/08/2024 ###########################################################################################################
+
+Estrutura de Repetição
+	For (para) = determinadas vezes
+	While (enquanto) = infinitas vezes
