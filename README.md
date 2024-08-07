@@ -120,3 +120,18 @@ while x<= 15:
     # incrementando
     x=x+1
 
+contador = 0
+acumulador = 0
+media = 0
+valor = float(input("Entre com um numero positivo: "))
+
+while valor>0.0:
+    contador = contador + 1
+    acumulador = acumulador + valor
+    # Entrada de valores
+    valor = float(input("Entre com um numero não positivo para encerrar: "))
+    
+media = acumulador / contador
+print("Total da soma dos numeros: {}".format(acumulador))
+print(f"Total de numero digitados: {contador}")
+print("Media: ",media)
