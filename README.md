@@ -135,3 +135,7 @@ media = acumulador / contador
 print("Total da soma dos numeros: {}".format(acumulador))
 print(f"Total de numero digitados: {contador}")
 print("Media: ",media)
+
+9º Aula - 07/08/2024 ###########################################################################################################
+
+FUNÇÕES
