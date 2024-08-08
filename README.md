@@ -139,3 +139,35 @@ print("Media: ",media)
 9º Aula - 07/08/2024 ###########################################################################################################
 
 FUNÇÕES
+def nome_da_função (parâmetros):
+	<instruções>
+ 	return "valor do retorno"
+
+def mensagem1():
+	print("Hello World1")
+
+def mensagem2():
+ 	return 'Hello World2'
+
+mensagem1()
+print(mensagem2())
+
+print()
+
+def ler_notas():
+    n=float(input('Digite uma nota para o aluno(a): '))
+    return n
+    
+def resultado(n1,n2):
+    print('Nota 1: ',n1)
+    print('Nota 2: ',n2)
+    media=(n1+n2)/2
+    print('Média: ',media,'\nResultado: ',end="")
+    if media >= 7:
+        print("Aprovado!")
+    else:
+        print("Reprovado!")
+        
+a = ler_notas()
+b = ler_notas()
+resultado(a,b)
