@@ -180,3 +180,14 @@ primeiro = [1,2,3,4]
 print(len(primeiro))
 print(primeiro[0])
 print(primeiro[2:4])
+
+lista = [1,2,3]
+inteiro = 1
+real = 1.4
+string = "luiz"
+booleano = True
+print(type(lista))
+print(type(inteiro))
+print(type(real))
+print(type(string))
+print(type(booleano))
