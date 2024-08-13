@@ -196,7 +196,7 @@ Concatenação
 
 print(primeiro+[5,6])
 
-# end=" " (Quebra de Linha)
+end=" " (Quebra de Linha)
 for n in [1,2,3,4]:
 	print (n,end="")
 
