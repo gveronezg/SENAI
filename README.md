@@ -113,7 +113,7 @@ for n in range(15,6,-1):
 
 While = Enquanto
 
-# inicializando
+inicializando
 x = 1
 while x<= 15:
     print(x)
