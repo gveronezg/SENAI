@@ -171,3 +171,12 @@ def resultado(n1,n2):
 a = ler_notas()
 b = ler_notas()
 resultado(a,b)
+
+Xº Aula - 13/08/2024 ###########################################################################################################
+
+LISTA
+
+primeiro = [1,2,3,4]
+print(len(primeiro))
+print(primeiro[0])
+print(primeiro[2:4])
