@@ -191,3 +191,15 @@ print(type(inteiro))
 print(type(real))
 print(type(string))
 print(type(booleano))
+
+Concatenação
+
+print(primeiro+[5,6])
+
+# end=" " (Quebra de Linha)
+for n in [1,2,3,4]:
+	print (n,end="")
+
+lista = [1,2,3]
+print(3 in lista)
+print(0 in lista)
