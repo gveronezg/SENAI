@@ -203,3 +203,13 @@ for n in [1,2,3,4]:
 lista = [1,2,3]
 print(3 in lista)
 print(0 in lista)
+
+lista[<uma expressão do tipo inteiro>]
+lista[<início>:<fim>]
+lista + outra_lista
+print(lista)
+len(lista)
+list(intervalo(<superior>))
+==,!=,<,>,<=,>=
+for <variável> in lista: <instrução>
+<qualquer valor> in lista
