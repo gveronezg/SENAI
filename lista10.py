@@ -103,11 +103,25 @@ for n in lista:
         menor = n
 print(f'O menor número desta lista é {menor}')
 
-
-
 # lista 10.18. Ordene uma lista de números em ordem crescente.
+lista = [10,22,3,45]
+lista_ordenada = sorted(lista)
+print(lista_ordenada)
+
 # lista 10.19. Ordene uma lista de números em ordem decrescente.
+lista = [10,22,3,45]
+lista_ordenada = sorted(lista,reverse=True)
+print(lista_ordenada)
+
 # lista 10.20. Inverta a ordem dos elementos em uma lista.
+lista = [10,22,3,45]
+lista_invertida = lista[::-1]
+print(lista_invertida)
+
 # lista 10.21. Crie uma cópia de uma lista.
+lista = [10,22,3,45]
+lista_copia = lista.copy()
+print(lista_copia)
+
 # lista 10.22. Limpe todos os elementos de uma lista.
 # lista 10.23. Verifique se todos os elementos de uma lista são números inteiros.
