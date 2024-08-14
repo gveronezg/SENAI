@@ -216,7 +216,3 @@ for <variável> in lista: <instrução>
 
 MÉTODOS
 LEGENDA = (x = indice,y = valor)
-
-.append(y) : adicionar no final da lista
-.insert(x,y) : idiciona em local especifico
-.pop(x) : remove em local especifico
