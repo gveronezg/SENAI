@@ -226,3 +226,7 @@ Yº Aula - 19/08/2024 ##########################################################
 
 Função open()
 	arquivo = open('arquivo.txt','w') = abre o arquivo ou cria caso não o encontre
+
+Função write()
+	arquivo.write('Curso Python \n')
+	arquivo.write('Aula Prática')
