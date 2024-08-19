@@ -58,7 +58,7 @@ else:
 # pergunta ao usuário o nome e armazena nesta variável
 nome = input('Entre com seu nome: ')
 # pergunta ao usuário o sexo e armazena nesta variável
-sexo = input('Qual seu sexo, m ou f? ').lower()
+sexo = str(input('Qual seu sexo, m ou f? ')).lower()
 # pergunta ao usuário o valor e armazena nesta variável
 valor = float(input('Entre com o valor total de sua compra: '))
 # verifica se o usuário é do sexo masculino
