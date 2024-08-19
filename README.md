@@ -230,3 +230,11 @@ Função open()
 Função write()
 	arquivo.write('Curso Python \n')
 	arquivo.write('Aula Prática')
+
+Função close()
+	arquivo.close()
+
+Função read()
+	leitura = open('arquivo.txt','r')
+ 	print(leitura.read())
+	leitura.close()
