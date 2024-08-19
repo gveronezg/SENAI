@@ -221,3 +221,8 @@ LEGENDA = (x = indice,y = valor)
 .insert(x,y) : idiciona em local especifico
 .pop(x) : remove em local especifico
 .sum() : soma todos os valores da lista
+
+Yº Aula - 19/08/2024 ###########################################################################################################
+
+Função open()
+	arquivo = open('arquivo.txt','w') = abre o arquivo ou cria caso não o encontre
