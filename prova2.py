@@ -63,11 +63,13 @@ sexo = str(input('Qual seu sexo, m ou f? ')).lower()
 valor = float(input('Entre com o valor total de sua compra: '))
 # verifica se o usuário é do sexo masculino
 if sexo=='m':
-    # apresenta o valor com desconto para homens
-    print('{}, sua conta caiu para: {} R$'.format(nome,valor*0.95))
+    # calcula o valor descontado para homens
+    descontado = valor*0.95
 elif sexo=='f':
-    # apresenta o valor com desconto para mulheres
-    print('{}, sua conta caiu para: {} R$'.format(nome,valor*0.87))
+    # calcula o valor descontado para mulheres
+    descontado = valor*0.87
+# apresenta o valor com desconto para o cliente
+print('{}, sua conta caiu para: {} R$'.format(nome,descontado))
 
 # 6. Faça um algoritmo que pergunte a distância que um passageiro deseja percorrer em Km, calcule o preço da passagem cobrando:
 # ➢ R$0.50 por Km para viagens até 200Km e
