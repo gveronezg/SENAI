@@ -68,8 +68,12 @@ if sexo=='m':
 elif sexo=='f':
     # calcula o valor descontado para mulheres
     descontado = valor*0.87
-# apresenta o valor com desconto para o cliente
-print('{}, sua conta caiu para: {} R$'.format(nome,descontado))
+if descontado:
+    # apresenta o valor com desconto para o cliente
+    print('{}, sua conta caiu para: {} R$'.format(nome,descontado))
+else:
+    # mensagem de erro
+    print('Sexo inválido!')
 
 # 6. Faça um algoritmo que pergunte a distância que um passageiro deseja percorrer em Km, calcule o preço da passagem cobrando:
 # ➢ R$0.50 por Km para viagens até 200Km e
