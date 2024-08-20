@@ -238,3 +238,20 @@ Função read()
 	leitura = open('arquivo.txt','r')
  	print(leitura.read())
 	leitura.close()
+
+Zº Aula - 20/08/2024 ###########################################################################################################
+
+TUPLAS
+	(t,u,p,l,a,s)
+
+frutas = ('Banana', 'Maçã')
+	print(frutas)
+
+carne = ('Peixe', 'Alcatra')
+	print(carne)
+
+comidas = frutas + carne
+	print(comidas)
+
+vegetais = ('Abobrinha', 'Pepino')
+	print(vegetais)
