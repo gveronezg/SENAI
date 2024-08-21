@@ -275,7 +275,7 @@ print(len(lanche))
 for x in range(0,len(lanche)):
     print(f'Eu comi {x}')
     
-# coloca em ordem alfabética
+coloca em ordem alfabética
 print(sorted(lanche))
 
 pessoa = ('Gabs', 28, 'H', 70)
