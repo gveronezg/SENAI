@@ -255,3 +255,30 @@ comidas = frutas + carne
 
 vegetais = ('Abobrinha', 'Pepino')
 	print(vegetais)
+
+indice = (0,1,2)
+lanche = ('Tomate','Pão','Alface')
+posição = (-3,-2,-1)
+print(lanche)
+print(lanche[1])
+print(lanche[-1])
+print(lanche[2])
+print(lanche[-3])
+print(lanche[:2])
+print(lanche[1:])
+
+for i in lanche:
+    print(f'Eu comi {i}')
+    
+print(len(lanche))
+
+for x in range(0,len(lanche)):
+    print(f'Eu comi {x}')
+    
+# coloca em ordem alfabética
+print(sorted(lanche))
+
+pessoa = ('Gabs', 28, 'H', 70)
+print(pessoa)
+
+del(pessoa)
