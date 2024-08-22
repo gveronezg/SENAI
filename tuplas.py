@@ -57,7 +57,11 @@ for x in numeros:
 print(f'O numero {n} aparece {contador} vezes na tupla!')
 
 # Lista 12.13. Encontre o índice de um elemento específico na tupla.
-
+times = ('corinthians', 'palmeiras', 'santos', 'são paulo')
+print(times)
+time = input("Você deseja saber a posição de qual time? ")
+posicao = times.index(time)
+print(f'O {time} está na {posicao} posição.')
 
 # Lista 12.14. Verifique se uma tupla está vazia.
 vazia = ()
