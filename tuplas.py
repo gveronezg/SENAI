@@ -50,8 +50,11 @@ else:
 numeros = (1,2,3,2,3,3)
 n = int(input('Entre com algum numero: '))
 print(f'Tupla: {numeros}')
-contagem = numeros.count(n)
-print(f'O elemento {n} aparece {contagem} vezes na tupla!')
+contador = 0
+for x in numeros:
+    if n == x:
+        contador +=1
+print(f'O numero {n} aparece {contador} vezes na tupla!')
 
 # Lista 12.13. Encontre o índice de um elemento específico na tupla.
 
