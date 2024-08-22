@@ -60,8 +60,15 @@ print(f'O numero {n} aparece {contador} vezes na tupla!')
 times = ('corinthians', 'palmeiras', 'santos', 'são paulo')
 print(times)
 time = input("Você deseja saber a posição de qual time? ")
-posicao = times.index(time)
-print(f'O {time} está na {posicao} posição.')
+esta = False
+for Time in times:
+    if Time == time:
+        esta = True
+if esta == True:
+    posicao = times.index(time)
+    print(f'O {time} está na {posicao} posição.')
+else:
+    print(f'O {time} não está contido na lista.')
 
 # Lista 12.14. Verifique se uma tupla está vazia.
 vazia = ()
