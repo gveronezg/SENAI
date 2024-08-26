@@ -313,3 +313,15 @@ print(automoveis)
 vazio = {}
 
 print()
+
+informacao = {}
+
+informacao['nome'] = 'Gabriel'
+
+informacao['ocupação'] = 'Desenvolvedor'
+
+print(informacao)
+
+informacao['ocupação'] = 'Analista'
+
+print(informacao)
