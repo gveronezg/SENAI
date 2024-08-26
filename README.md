@@ -295,9 +295,21 @@ dictionaries
      	'c'	'computing'
 
 exemplo:
-	pessoa = {'nome':'Paulo',
-    		'idade':29,
-    		'filhos':('João','Maria')
+	pessoa = {
+		'nome':'Paulo',
+		'idade':29,
+		'filhos':('João','Maria')
 	}
+
 print(pessoa)
 
+automoveis = [
+	{'marca':'Chevrolet','modelo':'Tracker','ano':2020},
+	{'marca':'Honda','modelo':'Sahara 300','ano':2024}
+]
+
+print(automoveis)
+
+vazio = {}
+
+print()
