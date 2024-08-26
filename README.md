@@ -282,3 +282,22 @@ pessoa = ('Gabs', 28, 'H', 70)
 print(pessoa)
 
 del(pessoa)
+
+Wº Aula - 26/08/2024 ###########################################################################################################
+
+DICIONÁRIOS
+	É uma estrutura de dados que permite armazenar dados em pares. Constituido de 2 atributos, chave e valor.
+ 
+dictionaries
+	keys	values
+ 	'b'	'beauty'
+   	'j'	'joy'
+     	'c'	'computing'
+
+exemplo:
+	pessoa = {'nome':'Paulo',
+    		'idade':29,
+    		'filhos':('João','Maria')
+	}
+print(pessoa)
+
