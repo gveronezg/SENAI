@@ -341,4 +341,13 @@ else:
     
 print('Verifique o dicionário abaixo...')
 print(capitais)
+
+capitais['brasil'] = 'Franca'
+print(capitais)
+
+del capitais['brasil']
+print(capitais)
+
+capitais['brasil'] = 'Brasilia'
+print(capitais)
 ...
