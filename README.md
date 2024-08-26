@@ -325,3 +325,20 @@ print(informacao)
 informacao['ocupação'] = 'Analista'
 
 print(informacao)
+
+...
+capitais = {'brasil':'Brasilia','alemanha':'Berlim','japão':'Tóquio'}
+
+país = input(str('Qual país deseja verificar se existe no dicionário? ')).lower()
+
+if país in capitais:
+    capital = capitais[país]
+    print(f'A capital de {país} é {capital}.')
+else:
+    print('Ainda não.')
+    capital = input(str(f'Qual a capital de {país}: '))
+    capitais['{}'.format(país)] = capital
+    
+print('Verifique o dicionário abaixo...')
+print(capitais)
+...
