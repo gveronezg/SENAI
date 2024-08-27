@@ -351,3 +351,10 @@ print(capitais)
 capitais['brasil'] = 'Brasilia'
 print(capitais)
 ...
+
+Aº Aula - 27/08/2024 ###########################################################################################################
+
+MÓDULOS
+
+import math = importar tudo
+from math import sqrt = importa só o que é especificado
